@@ -14,7 +14,7 @@ Este repositório contém a estrutura do backend do projeto App Delivery, desenv
 
 A estrutura completa do banco pode ser visualizada aqui:
 
-👉 [Ver banco de dados](./banco%20de%20dados.md)
+👉 [Ver banco de dados](./database.md)
 
 ---
 
